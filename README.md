@@ -21,7 +21,7 @@ Este projeto foi desenvolvido para facilitar o cálculo da Regra de Três, permi
 3. Insira os valores nos campos apropriados e clique no botão para calcular.
 
 ## 📷 Demonstração
-![Demo](https://eduardohro.github.io/regra-tres/)
+[Demo](https://eduardohro.github.io/regra-tres/)
 
 ## 🔧 Melhorias Futuras
 - Adicionar suporte para cálculo de Regra de Três Inversa.
